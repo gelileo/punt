@@ -1,5 +1,5 @@
 import fire
-from lib import react, tailwind
+from utils import react, tailwind
 
 
 def start_tailwind():
